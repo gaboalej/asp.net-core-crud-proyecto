@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Negocio\\ProyectoCrud.Negocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Datos\\ProyectoCrud.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Datos\\ProyectoCrud.Datos.csproj",
+        "projectName": "ProyectoCrud.Datos",
+        "projectPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Datos\\ProyectoCrud.Datos.csproj",
+        "packagesPath": "C:\\Users\\pc_notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc_notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\ProyectoCrud.Modelos.csproj": {
+                "projectPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\ProyectoCrud.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\ProyectoCrud.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\ProyectoCrud.Modelos.csproj",
+        "projectName": "ProyectoCrud.Modelos",
+        "projectPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\ProyectoCrud.Modelos.csproj",
+        "packagesPath": "C:\\Users\\pc_notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc_notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Negocio\\ProyectoCrud.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Negocio\\ProyectoCrud.Negocio.csproj",
+        "projectName": "ProyectoCrud.Negocio",
+        "projectPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Negocio\\ProyectoCrud.Negocio.csproj",
+        "packagesPath": "C:\\Users\\pc_notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc_notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Datos\\ProyectoCrud.Datos.csproj": {
+                "projectPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Datos\\ProyectoCrud.Datos.csproj"
+              },
+              "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\ProyectoCrud.Modelos.csproj": {
+                "projectPath": "C:\\Users\\pc_notebook\\Desktop\\asp.net core crud proyecto\\SolutionCrud\\ProyectoCrud.Modelos\\ProyectoCrud.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
