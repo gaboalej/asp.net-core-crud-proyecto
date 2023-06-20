@@ -12,3 +12,6 @@ C:\Users\pc_notebook\Desktop\asp.net core crud proyecto\SolutionCrud\ProyectoCru
 C:\Users\pc_notebook\Desktop\asp.net core crud proyecto\SolutionCrud\ProyectoCrud.Datos\obj\Debug\net6.0\ref\ProyectoCrud.Datos.dll
 C:\Users\pc_notebook\Desktop\asp.net core crud proyecto\SolutionCrud\ProyectoCrud.Datos\bin\Debug\net6.0\ProyectoCrud.Datos.runtimeconfig.json
 C:\Users\pc_notebook\Desktop\asp.net core crud proyecto\SolutionCrud\ProyectoCrud.Datos\obj\Debug\net6.0\ProyectoCrud.Datos.genruntimeconfig.cache
+C:\Users\pc_notebook\Desktop\asp.net core crud proyecto\SolutionCrud\ProyectoCrud.Datos\bin\Debug\net6.0\ProyectoCrud.Modelos.dll
+C:\Users\pc_notebook\Desktop\asp.net core crud proyecto\SolutionCrud\ProyectoCrud.Datos\bin\Debug\net6.0\ProyectoCrud.Modelos.pdb
+C:\Users\pc_notebook\Desktop\asp.net core crud proyecto\SolutionCrud\ProyectoCrud.Datos\obj\Debug\net6.0\ProyectoCrud.Datos.csproj.CopyComplete

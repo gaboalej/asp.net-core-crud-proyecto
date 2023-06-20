@@ -18,4 +18,8 @@
     <Folder Include="DatosContext\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProyectoCrud.Modelos\ProyectoCrud.Modelos.csproj" />
+  </ItemGroup>
+
 </Project>
